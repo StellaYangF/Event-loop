@@ -2,8 +2,10 @@
 
 ## What is Event-loop?
 Main thread reads, takes and executes event from task queue, which is looped.
-* Refers to [Ruanyifeng Blog](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+* Browser *Via [Ruanyifeng Blog](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)*
   <image src='./image/Event-loop.jpg' />
+* Node *Via BusyRich*
+  <image src='./image/node.png' />
 
 ## Classification
 * Macrotask queue:
